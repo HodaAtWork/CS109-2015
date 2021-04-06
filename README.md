@@ -1,5 +1,7 @@
 # Why CS109-2015?
 ---
+Jump directly to [schedule and class material](Schedule.md) to start.<br><br>
+
 5 years old, but still in the 2020 list of [Top 7 Online Data Science Courses](https://www.learndatasci.com/best-data-science-online-courses/):<br><br>
 "With a great mix of theory and application, this course from Harvard is one of the best for getting started as a beginner. It’s not on an interactive platform, like ***Coursera*** or ***edX***, and doesn’t offer any sort of certification, but it’s definitely worth your time and it’s totally free.
 
