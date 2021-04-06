@@ -5,8 +5,8 @@ Notes
 
 
 Week | Tuesday | Thursday | Sections | Released (Thursdays) | Due (Thursdays)
--------------------------|-------------------|-----------|---------------|------------------|------------
-                         | **Act 1: Prediction and elections** ||||
+-----|---------|----------|----------|----------------------|----------------
+| **Act 1: Prediction and elections** ||||
 [1](#Week-1)                   | no class          |       Introduction. What is data science? Process. Why is it important? Who are we? Course overview. - HP/VK/JB   |   Friday Lab: Git and installing python. Basic Python.          | HW0              |    
 [2](#Week-2)                   | Data Collection. Web Scraping. Regular Expressions. Data Reshaping. Data Cleanup. Pandas. - VK |Exploratory Data Analysis. Effective Visualizations. - HP   |   Git and installing python. Basic Python.| HW1              |[HW0](Labs/2015lab1/hw0.ipynb)
 [3](#Week-3) | Introduction to Databases. SQL. More Pandas. - RD | Probability review. Statistical models. Parametric and nonparametric methods. Bootstrap. - JB | Scraping and Pandas in 1D | |
